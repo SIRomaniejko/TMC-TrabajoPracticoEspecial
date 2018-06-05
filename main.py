@@ -5,7 +5,7 @@ from probabilidades import *
 
 print('')
 print('')
-print('Estamos volando en la tranquilidad del espacio.....')
+print('Estamos haciendo envios en la tranquilidad del espacio (y evitando ser despedidos).....')
 print('')
 print('')
 print('             __');
