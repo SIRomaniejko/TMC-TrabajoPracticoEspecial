@@ -1,6 +1,4 @@
 # coding=utf-8
-
-from naves import *
 from probabilidades import *
 
 print('')
