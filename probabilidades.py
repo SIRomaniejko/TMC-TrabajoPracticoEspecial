@@ -50,7 +50,10 @@ def enunciado1(probabilidad):
     return perdidasTotal/12
 
 def enunciado3(epsilon):
+    print("probabilidad de despido nave c")
     print(probabilidadNaveC(epsilon))
+    print("cuartil a despedir en la ultima prueba")
+    printCuartil()
 
 
 def enunciado2():
