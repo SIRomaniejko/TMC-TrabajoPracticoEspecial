@@ -13,4 +13,6 @@ print('             /_/');
 print('')
 print('')
 
-print("usa probabilidadNaveC(epsilon)")
+print("usa enunciado1(probabilidad)")
+print("usa enunciado2()")
+print("usa enunciado3(epsilon)")

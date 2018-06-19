@@ -32,6 +32,7 @@ def probabilidadNave(nave_p):
 def enunciado1(probabilidad):
     iteracion = 0
     perdidasTotal = 0
+    probabilidadIngresada = probabilidad
     while iteracion < 12: 
         perdida = 0
         perdidaMax = 0
@@ -47,6 +48,9 @@ def enunciado1(probabilidad):
         perdidasTotal = perdidasTotal + perdidaMax
         iteracion = iteracion + 1
     return perdidasTotal/12
+
+def enunciado3(epsilon):
+    print(probabilidadNaveC(epsilon))
 
 
 def enunciado2():
