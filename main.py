@@ -13,3 +13,4 @@ print('             /_/');
 print('')
 print('')
 
+print("usa probabilidadNaveC(epsilon)")
