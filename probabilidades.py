@@ -48,8 +48,6 @@ def enunciado1(probabilidad):
         iteracion = iteracion + 1
     return perdidasTotal/12
 
-def enunciado3():
-    
 
 def enunciado2():
     print(probabilidadNaveC(0.25))
